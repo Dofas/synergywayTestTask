@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  background-color: lightblue;
+  padding: 15px;
+}
+
+.link {
+  text-decoration: none;
+  color: darkgoldenrod;
+}

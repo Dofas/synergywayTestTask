@@ -1,0 +1,22 @@
+.list {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.listItem {
+  border: 1px solid yellowgreen;
+  padding: 15px;
+  margin-bottom: 5px;
+}
+
+.listItemPrice {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 4px;
+}
+
+.listItemButton {
+  background-color: green;
+  cursor: pointer;
+}
